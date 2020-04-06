@@ -1,2 +1,6 @@
 # LechePlanner
-Juicy personal planner for Joms. Active Stack: --Flask backend
+Juicy personal planner for Joms. 
+
+Active Stack: 
+--Flask backend
+--mongodb db
